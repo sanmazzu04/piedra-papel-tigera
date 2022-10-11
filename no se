@@ -1,0 +1,23 @@
+alert("juguemos a un juego")
+let variable = prompt("piedra papel o tigera?")
+if(variable = "piedra"){
+    let variable = piedra;
+} 
+if(variable = "papel"){
+    let variable = papel
+} 
+if(variable = "tigera"){
+    let variable = tigera
+} 
+
+
+let piedraBot = 1
+let tigeraBot = 2
+let papelBot = 3
+let bot = Math.random() * (1 - 3) * 3
+
+
+if (variable = bot){
+    alert("empateeee")
+}
+else if ()
